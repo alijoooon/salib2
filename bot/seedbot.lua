@@ -247,7 +247,7 @@ function create_config( )
     "location",
     "spammer"
     },
-    sudo_users = {136888679,164100672,167268835},
+    sudo_users = {196484956},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleSalib V1.5 - 
@@ -255,16 +255,13 @@ An advance Administration bot based on yagop/telegram-bot
 
 
 Admins
-@Xx_king_salib_Xx [sudo]
-@Mr_Vigeo [sudo]
-@Xx_minister_salib_xX [sudo]
+@me_editor
 
 Special thanks to
-@Mr_Vigeo 
+@mr_editor
 
-Our channels
-@TeleSalibCh [English]
-@TeleSalibCh [persian]
+
+
 ]],
     help_text_realm = [[
 Realm Commands:
